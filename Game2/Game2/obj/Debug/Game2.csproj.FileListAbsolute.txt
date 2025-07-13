@@ -1,0 +1,10 @@
+C:\Users\Egor\Documents\All\Game2\Game2\obj\Debug\Game2.csproj.AssemblyReference.cache
+C:\Users\Egor\Documents\All\Game2\Game2\obj\Debug\Game2.csproj.GenerateResource.cache
+C:\Users\Egor\Documents\All\Game2\Game2\obj\Debug\Game2.Properties.Resources.resources
+C:\Users\Egor\Documents\All\Game2\Game2\obj\Debug\Game2.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\All\Game2\Game2\bin\Debug\Game2.exe.config
+C:\Users\Egor\Documents\All\Game2\Game2\bin\Debug\Game2.exe
+C:\Users\Egor\Documents\All\Game2\Game2\bin\Debug\Game2.pdb
+C:\Users\Egor\Documents\All\Game2\Game2\obj\Debug\Game2.exe
+C:\Users\Egor\Documents\All\Game2\Game2\obj\Debug\Game2.pdb
+C:\Users\Egor\Documents\All\Game2\Game2\obj\Debug\Dino.Form1.resources
